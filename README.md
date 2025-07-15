@@ -8,7 +8,7 @@ This project implements a real-time pose estimation system using OpenPose (or Me
 - Maps pose keypoints using deep learning models (e.g., MediaPipe or OpenPose)
 - Supports interactive gesture recognition for HCI systems
 
-##  Libraries and tools Used
+##  Libraries and Tools Used
 
 - Python
 - OpenCV
